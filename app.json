@@ -1,17 +1,9 @@
 {
-<<<<<<< HEAD
-  "name": "xping",
-  "description": "xping",
-  "website": "https://xping.online/",
-  "repository": "https://github.com/Parsaa404/chatwoot",
-  "logo": "https://github.com/Parsaa404/chatwoot/blob/develop/public/brand-assets/logo_thumbnail.svg",
-=======
   "name": "XPING | LIVE CHAT",
   "description": "XPING is a customer support tool for instant messaging channels",
   "website": "https://xping.online/",
   "repository": "https://github.com/Parsaa404/chatwoot",
   "logo": "https://github.com/Parsaa404/chatwoot/blob/develop/public/brand-assets/logo.svg",
->>>>>>> 499218cecfdd39a077cd3ddeeae1800d2d0e7cf5
   "keywords": [
     "live chat",
     "customer support",
